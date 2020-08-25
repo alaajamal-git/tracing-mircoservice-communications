@@ -29,5 +29,6 @@ Run Steps:
 4. get : http://localhost:8011/users-ws/users/d81d0085-34a3-4ca2-a440-466a0b03fbf3
    Header :
    Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIyZWVhZWM2Zi00MDkyLTQ2ZDEtYmEyMy1iODRjZTEwMDZkOTciLCJleHAiOjE1OTUyNjk5ODN9.cIZOTV8gfZtQTa0_odhkrN2TFPvbYCTD8WbwyIPQKmg
- 
+ <h2>application architecture<h2>
+ <img src="diagram.png"/>
   
